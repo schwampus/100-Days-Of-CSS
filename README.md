@@ -1,4 +1,6 @@
+<center>
 <img width="399" height="399" alt="100daysofcss" src="https://github.com/user-attachments/assets/83f8aa6f-7d9c-4b58-b6f5-cee204986e9a" />
+</center>
 
 Found a fun challenge that I will try out, not sure if i will do 100 days in a row, but every entry is atleast done in one day.   
 A great concept with bitesized coding tasks blending design and animation, just what I need now.
