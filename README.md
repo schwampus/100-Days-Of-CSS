@@ -11,6 +11,6 @@ Found a fun challenge that I will try out, not sure if i will do 100 days in a r
 A great concept with bitesized coding tasks blending design and animation, just what I need now.
 
 
-[Link to the challenge site](https://100dayscss.com/days/1/)
+[Link to the challenge site](https://100dayscss.com/days/1/) --  
 [Link to my collection on codepen](https://codepen.io/tv/wkrGqv)
 
