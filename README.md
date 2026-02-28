@@ -9,9 +9,10 @@
 
 Found a fun challenge that I will try out, not sure if i will do 100 days in a row, but every entry is atleast done in one day.   
 A great concept with bitesized coding tasks blending design and animation, just what I need now.
-
+<div>
 <ul align="center" style="list-style: none;">
    <summary> 
 [Link to the challenge site](https://100dayscss.com/days/1/) -- [Link to my collection on codepen](https://codepen.io/tv/wkrGqv)
 </summary>
   </ul>
+</div>
